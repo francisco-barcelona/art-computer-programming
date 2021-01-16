@@ -1,0 +1,13 @@
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.exe
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.deps.json
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.runtimeconfig.json
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.runtimeconfig.dev.json
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.dll
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\bin\Debug\netcoreapp3.1\euclides-algorithm.pdb
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.csprojAssemblyReference.cache
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.AssemblyInfoInputs.cache
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.AssemblyInfo.cs
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.dll
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.pdb
+C:\Users\Pak\source\repos\art-programming\vol1\01-euclides-algorithm\euclides-algorithm\obj\Debug\netcoreapp3.1\euclides-algorithm.genruntimeconfig.cache
