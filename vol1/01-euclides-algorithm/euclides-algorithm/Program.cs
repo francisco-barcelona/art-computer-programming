@@ -66,7 +66,7 @@ namespace euclides_algorithm
                 r = m % n;
             }
 
-            // Print result
+            // Print results
             Console.WriteLine("the largest positive integer that evenly divides both m and n is: " + n);
         }
     }
